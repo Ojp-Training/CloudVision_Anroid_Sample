@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CloudVisionTest</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="text_detection">Text Detection(OCR)</string>
+    <string name="lable_detection">Label Detection</string>
+    <string name="landmark_det">Landmark Detection</string>
+    <string name="facial_detection">Facial Detection</string>
+    <string name="logo_detection">Logo Detection</string>
+    <string name="safe_search">Safe Search</string>
+    <string name="web_detection">Web Detection</string>
+    <string name="img_props">Image Properties</string>
+    <string name="crop_hints">Crop Hints</string>
+    <string name="object_locale">Object Localization</string>
+    <string name="text_identified">Identified Text : </string>
+    <string name="text_lables">Lables : </string>
+    <string name="text_landmark">Landmarks : </string>
+    <string name="text_logo">Logos : </string>
+    <string name="text_safe">Safe Parameters : </string>
+    <string name="text_web_links">Web Links : </string>
+    <string name="text_img_porps">Image Properties : </string>
+    <string name="text_obj_locale">Objects in Image : </string>
+    <string name="text_face">Face Likely</string>
+</resources>

@@ -1,0 +1,59 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.sas.test.testoptionmenu.MainActivity">
+    <item
+        android:id="@+id/opt_text_detection"
+        android:orderInCategory="100"
+        android:title="@string/text_detection"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/opt_label_detection"
+        android:orderInCategory="100"
+        android:title="@string/lable_detection"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/opt_landmark_detection"
+        android:orderInCategory="100"
+        android:title="@string/landmark_det"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/opt_facial_detection"
+        android:orderInCategory="100"
+        android:title="@string/facial_detection"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/opt_logo_detection"
+        android:orderInCategory="100"
+        android:title="@string/logo_detection"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/opt_safe_search_detection"
+        android:orderInCategory="100"
+        android:title="@string/safe_search"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/opt_web_detection"
+        android:orderInCategory="100"
+        android:title="@string/web_detection"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/opt_img_properties"
+        android:orderInCategory="100"
+        android:title="@string/img_props"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/opt_crop_hints"
+        android:orderInCategory="100"
+        android:title="@string/crop_hints"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/opt_obj_locale"
+        android:orderInCategory="100"
+        android:title="@string/object_locale"
+        app:showAsAction="never" />
+
+</menu>
